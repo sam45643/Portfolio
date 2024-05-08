@@ -41,7 +41,7 @@ box-shadow: 0 0 5px #f6b80d,
 box-shadow: 0 0 5px #f6b80d,
             0 0 25px #f6b80d,
             0 0 50px #f6b80d,
-            0 0 200px #f6b80d;looks pretty the solarsystem*/
+            0 0 200px #f6b80d;looks pretty, the solarsystem*/
 
   }  
   
@@ -88,7 +88,7 @@ box-shadow: 0 0 5px #f6b80d,
       display: flex;
         justify-content: center;
         align-items: center;
-       /*box-shadow: 0 0 20px #fff, 0 0 40px #fff, 0 0 60px #fff, 0 0 80px #00ff00; if want to glow*/  
+       /*box-shadow: 0 0 20px #fff, 0 0 40px #fff, 0 0 60px #fff, 0 0 80px #00ff00; if u want it to glow*/  
       } 
   
 .skill-planet span {
@@ -131,7 +131,7 @@ box-shadow: 0 0 5px #f6b80d,
       color:#C77751;
       font-size: 9px;
       line-height: 26px;
-      background-image: url("https://cdn-icons-png.flaticon.com/512/6132/6132221.png"); /* add your image URL here */
+      background-image: url("https://azure.microsoft.com/en-us/blog/wp-content/uploads/2021/05/95baa365-fedb-4d3c-8b1f-22735e3bb77a.webp"); /* add your image URL here */
       background-size: cover;
       background-position: center;
   }
