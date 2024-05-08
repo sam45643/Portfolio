@@ -120,7 +120,7 @@ box-shadow: 0 0 5px #f6b80d,
     border: 2px solid #A3B476;
     color: #A3B476;
     font-size: 12px;
-    background-image: url("https://pbs.twimg.com/profile_images/1649093986852937728/TcHloZbL_400x400.jpg"); /* add your image URL here */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOCpr7K5Z8r7bKcwHpyl6R0TzBQyZY3q3MzRjhzKuLQ&s"); /* add your image URL here */
     background-size: cover;
     background-position: center;
     /*line-height: /*To make only the planets glow, you can remove the `box-shadow` property from the `.skill-orbit` class and instead add it to the `.skill-planet` class. Here's the updated CSS:*/
